@@ -16,7 +16,7 @@ public class Battalion {
 
           int option1 = 0, option2 = 0;
 
-          System.out.println("Choose Heroe:");
+          System.out.println("Choose Heroe: ");
           option1 = sn.nextInt();
 
           System.out.println("Choose Beast:");
@@ -58,7 +58,7 @@ public class Battalion {
 
           ArrayList<Character> characters = new ArrayList<>(Arrays.asList(c1, c2));
 
-             System.out.println("Battle has started!!");
+             System.out.println("Battle has started!!!");
 
              if (characters.get(0).isAlive()) {
 
