@@ -62,9 +62,9 @@ public class Battalion {
 
              if (characters.get(0).isAlive()) {
 
-                  System.out.println(characters.get(0).getClass().getName() + "  WON!!");
+                  System.out.println(characters.get(0).getClass().getName() + "  WON!!!");
              } else {
-                  System.out.println(characters.get(1).getClass().getName() + "  WON!!");
+                  System.out.println(characters.get(1).getClass().getName() + "  WON!!!");
              }
      }
 
