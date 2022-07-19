@@ -74,7 +74,7 @@ public class Battalion {
           System.out.println("*** 1 - Hobbit *** ");
           System.out.println("*** 2 - Human *** ");
 
-          System.out.println("*** Beast ***");
+          System.out.println("** Beast **");
           System.out.println("*** 0 - Orco *** ");
           System.out.println("*** 1 - Trasgos *** ");
 
