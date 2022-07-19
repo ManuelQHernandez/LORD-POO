@@ -69,7 +69,7 @@ public class Battalion {
      }
 
      public static void printMenu() {
-          System.out.println("*** Heroes ***");
+          System.out.println("** Heroes **");
           System.out.println("*** 0 - Elves *** ");
           System.out.println("*** 1 - Hobbit *** ");
           System.out.println("*** 2 - Human *** ");
